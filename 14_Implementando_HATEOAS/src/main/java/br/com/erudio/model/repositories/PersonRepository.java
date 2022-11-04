@@ -1,4 +1,4 @@
-package br.com.erudio.repositories;
+package br.com.erudio.model.repositories;
 
 import br.com.erudio.model.Person;
 import org.springframework.data.jpa.repository.JpaRepository;
