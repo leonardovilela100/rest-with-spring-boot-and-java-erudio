@@ -1,4 +1,3 @@
-
 package br.com.erudio.data.vo.v1.security.vo;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
